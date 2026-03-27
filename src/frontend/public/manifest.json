@@ -1,0 +1,43 @@
+{
+  "name": "StaySpread",
+  "short_name": "StaySpread",
+  "description": "Discover and book unique properties. Connect hosts, promoters, and travelers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a56db",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/generated/stayspread-logo-48.dim_48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/generated/stayspread-logo-72.dim_72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/generated/stayspread-logo-96.dim_96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/generated/stayspread-logo-144.dim_144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/generated/stayspread-logo-192.dim_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/generated/stayspread-logo-512.dim_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
